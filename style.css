@@ -1,0 +1,36 @@
+body{
+    margin: 0 auto;
+    width: 850px;
+}
+
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 450px;
+    background-image: url(./space.jpg);
+    font-family: Arial, Helvetica, sans-serif;
+    background-size: contain;
+
+}
+
+section{
+    display: flex;
+    justify-content: space-between;
+    height: 324px;
+    background-color:#cccccc;
+    padding-left: 60px;
+
+
+}
+div{
+    width: 270px;
+
+}
+
+h1{
+    font-size: 80px;
+    text-transform: uppercase;
+    color: #ffffff;
+}
